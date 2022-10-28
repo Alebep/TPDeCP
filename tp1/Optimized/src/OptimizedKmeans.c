@@ -66,9 +66,6 @@ cluster *kMeans(observation observations[], size_t size, int k)
         /* STEP 1 */
         size_t j = 0;
         size_t changed = 0;
-        size_t minAcceptedError =
-            size /
-            10000; // Do until 99.99 percent points are in correct cluster
         int t = 0;
         int i = 0;
         for (i = 0; i < k; i++)
