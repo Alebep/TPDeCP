@@ -61,7 +61,6 @@ cluster *kMeans(observation observations[], size_t size, int k)
     }
     else if (k < size)
     {
-        int flag = -1;
         clusters = malloc(sizeof(cluster) * k);
         memset(clusters, 0, k * sizeof(cluster));
         /* STEP 1 */
@@ -78,7 +77,7 @@ cluster *kMeans(observation observations[], size_t size, int k)
         {
             /* Initialize clusters */
             size_t j = 0;
-            if (flag != -1)
+            if (it != 0)
             {
                 for (i = 0; i < k; i++)
                 {
@@ -107,7 +106,7 @@ cluster *kMeans(observation observations[], size_t size, int k)
             for (j = 0; j < size; j++)
             {
                 t = calculateNearst(observations + j, clusters, k);
-                if (flag == -1)
+                if (it == 0)
                 {
                     observations[j].group = t;
                     changed++;
@@ -118,9 +117,7 @@ cluster *kMeans(observation observations[], size_t size, int k)
                     observations[j].group = t;
                 }
             }
-            if(flag == 0)
-                it++;
-            flag = 0;
+            it++;
         } while (changed != 0); // Keep on grouping until we have
                                 // got almost best clustering
     }
