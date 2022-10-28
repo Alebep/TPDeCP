@@ -1,0 +1,39 @@
+ Performance counter stats for './Output.out':
+
+    37,560,187,358      instructions              #    1.35  insn per cycle
+    27,772,482,229      cycles
+
+       9.026871481 seconds time elapsed
+
+       8.994840000 seconds user
+       0.032002000 seconds sys
+
+       
+ Performance counter stats for './Output.out':
+
+       155,255,445      L1-dcache-load-misses
+    37,549,692,422      inst_retired.any          #      0.5 CPI
+    19,757,610,130      cycles
+
+       6.059536229 seconds time elapsed
+
+       6.024126000 seconds user
+       0.034994000 seconds sys
+
+Performance counter stats for './Output':
+
+          4,963.05 msec task-clock                #    1.000 CPUs utilized
+                 3      context-switches          #    0.001 K/sec
+                 0      cpu-migrations            #    0.000 K/sec
+             2,203      page-faults               #    0.444 K/sec
+    14,392,466,752      cycles                    #    2.900 GHz
+     3,522,597,518      stalled-cycles-frontend   #   24.48% frontend cycles idle
+    37,544,367,309      instructions              #    2.61  insn per cycle
+                                                  #    0.09  stalled cycles per insn
+     4,061,287,891      branches                  #  818.305 M/sec
+         7,359,692      branch-misses             #    0.18% of all branches
+
+       4.963854501 seconds time elapsed
+
+       4.934513000 seconds user
+       0.029003000 seconds sys

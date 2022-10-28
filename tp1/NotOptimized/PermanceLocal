@@ -1,0 +1,3 @@
+srun --partition=cpar perf stat -e instructions,cycles ./Output.out
+srun --parttion = cpar perf stat -e L1-dcache-load-misses -M cpi ./Output.out
+perf record ./a.out

@@ -1,0 +1,10 @@
+Performance counter stats for './k_means':
+
+    37,544,533,785      instructions              #    2.61  insn per cycle
+    14,386,565,504      cycles
+
+
+       4.568959768 seconds time elapsed
+
+       4.538102000 seconds user
+       0.030000000 seconds sys
