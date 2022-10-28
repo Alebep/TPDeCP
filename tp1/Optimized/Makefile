@@ -4,7 +4,7 @@ SRC = src/
 INCLUDES = include/
 EXEC = k_means
 
-CFLAGS = -O3 
+CFLAGS = -O3 -O -funroll-loops -march=native -mfpmath=sse
 
 .DEFAULT_GOAL = OptimizedKmeans
 

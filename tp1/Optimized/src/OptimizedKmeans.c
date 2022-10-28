@@ -43,7 +43,22 @@ int calculateNearst(observation *o, cluster clusters[], int k)
     return index;
 }
 
-
+void calculateCentroid(observation observations[], size_t size,
+                       cluster *centroid)
+{
+    size_t i = 0;
+    centroid->x = 0;
+    centroid->y = 0;
+    centroid->count = size;
+    for (; i < size; i++)
+    {
+        centroid->x += observations[i].x;
+        centroid->y += observations[i].y;
+        observations[i].group = 0;
+    }
+    centroid->x /= centroid->count;
+    centroid->y /= centroid->count;
+}
 
 cluster *kMeans(observation observations[], size_t size, int k)
 {
@@ -57,7 +72,7 @@ cluster *kMeans(observation observations[], size_t size, int k)
         */
         clusters = (cluster *)malloc(sizeof(cluster));
         memset(clusters, 0, sizeof(cluster));
-        /*calculateCentroid(observations, size, clusters);*/
+        calculateCentroid(observations, size, clusters);
     }
     else if (k < size)
     {
