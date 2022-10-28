@@ -148,7 +148,7 @@ void impri(cluster *cl, size_t s, int k)
     {
         printf("Center: (%.3f, %.3f) : Size: %ld\n", cl[i].x, cl[i].y, cl[i].count);
     }
-    printf("\nIterations: %d\n", it);
+    printf("\nIterations: %d\n", it-1);
 }
 
 static void test()
