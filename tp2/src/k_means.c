@@ -152,7 +152,7 @@ void impri(cluster *cl, size_t s, int k)
 
 static void test(size_t size, int k)
 {
-    //size_t size = 10000000L;
+    // size_t size = 10000000L;
     observation *observations = (observation *)malloc(sizeof(observation) * size);
     size_t i = 0;
     srand(10);
@@ -161,9 +161,9 @@ static void test(size_t size, int k)
         observations[i].x = (float)rand() / RAND_MAX;
         observations[i].y = (float)rand() / RAND_MAX;
     }
-    //int k = 4; // No of clusters
+    // int k = 4; // No of clusters
     cluster *clusters = kMeans(observations, size, k);
-    //printf("%d\n",threads);
+    // printf("%d\n",threads);
     impri(clusters, size, k);
     free(observations);
     free(clusters);
