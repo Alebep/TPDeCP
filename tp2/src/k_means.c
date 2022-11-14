@@ -6,6 +6,7 @@
 #include <string.h> /* memset */
 #include <time.h>   /* time */
 #include "../include/utils.h"
+#include <omp.h>
 
 int threads = 1;
 
@@ -67,6 +68,7 @@ cluster *kMeans(observation observations[], size_t size, int k)
         size_t changed = 0;
         int t = 0;
         int i = 0;
+#pragma omp parallel for num_threads(threads)
         for (i = 0; i < k; i++)
         {
             clusters[i].x = observations[i].x;
@@ -102,21 +104,25 @@ cluster *kMeans(observation observations[], size_t size, int k)
             }
             /* STEP 3 and 4 */
             changed = 0; // this variable stores change in clustering
-            for (j = 0; j < size; j++)
+#pragma omp parallel default(shared) firstprivate(size, k) num_threads(threads)
             {
-                t = calculateNearst(observations + j, clusters, k);
-                if (it == 0)
+#pragma omp for schedule(static)
+                for (j = 0; j < size; j++)
                 {
-                    observations[j].group = t;
-                    changed++;
-                }
-                else if (t != observations[j].group)
-                {
-                    changed++;
-                    observations[j].group = t;
+                    t = calculateNearst(observations + j, clusters, k);
+                    if (it == 0)
+                    {
+                        observations[j].group = t;
+                        changed++;
+                    }
+                    else if (t != observations[j].group)
+                    {
+                        changed++;
+                        observations[j].group = t;
+                    }
                 }
             }
-            if(it == 21)
+            if (it == 21)
                 break;
             it++;
         } while (changed != 0); // Keep on grouping until we have
@@ -156,12 +162,22 @@ static void test(size_t size, int k)
 {
     // size_t size = 10000000L;
     observation *observations = (observation *)malloc(sizeof(observation) * size);
-    size_t i = 0;
     srand(10);
-    for (; i < size; i++)
+#pragma omp prallel num_threads(threads)
     {
-        observations[i].x = (float)rand() / RAND_MAX;
-        observations[i].y = (float)rand() / RAND_MAX;
+        size_t i = 0;
+#pragma omp sections
+        {
+#pragma omp section
+            {
+                for (; i < size; i++)
+                {
+                    // printf(" l %d- \n", omp_get_thread_num());
+                    observations[i].x = (float)rand() / RAND_MAX;
+                    observations[i].y = (float)rand() / RAND_MAX;
+                }
+            }
+        }
     }
     // int k = 4; // No of clusters
     cluster *clusters = kMeans(observations, size, k);
@@ -183,7 +199,7 @@ int main(int argc, char *argv[])
     // test();
     /*printf("%d\n", argc);
     size_t l[3];
-    l[0] = atoi(argv[1]); 
+    l[0] = atoi(argv[1]);
     l[1] = atoi(argv[2]);
     threads = atoi(argv[3]);
     l[2] = threads;
