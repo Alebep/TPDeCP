@@ -116,6 +116,8 @@ cluster *kMeans(observation observations[], size_t size, int k)
                     observations[j].group = t;
                 }
             }
+            if(it == 21)
+                break;//*/
             it++;
         } while (changed != 0); // Keep on grouping until we have
                                 // got almost best clustering
