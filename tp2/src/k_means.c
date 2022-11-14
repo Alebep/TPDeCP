@@ -7,7 +7,7 @@
 #include <time.h>   /* time */
 #include "../include/utils.h"
 
-int threads = 1;
+//int threads = 1;
 
 typedef struct observation
 {
@@ -117,7 +117,7 @@ cluster *kMeans(observation observations[], size_t size, int k)
                 }
             }
             if(it == 21)
-                break;//*/
+                break;
             it++;
         } while (changed != 0); // Keep on grouping until we have
                                 // got almost best clustering
@@ -192,7 +192,7 @@ int main(int argc, char *argv[])
         printf("%ld\n", l[i-1]);
     }
     printf("classificar amostras\n");//*/
-    threads = atoi(argv[3]);
+    //threads = atoi(argv[3]);
     test(atoi(argv[1]), atoi(argv[2]));
 
     return 0;
