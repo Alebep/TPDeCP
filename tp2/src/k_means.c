@@ -7,7 +7,7 @@
 #include <time.h>   /* time */
 #include "../include/utils.h"
 
-//int threads = 1;
+int threads = 1;
 
 typedef struct observation
 {
@@ -183,7 +183,7 @@ int main(int argc, char *argv[])
     // test();
     /*printf("%d\n", argc);
     size_t l[3];
-    l[0] = atoi(argv[1]);
+    l[0] = atoi(argv[1]); 
     l[1] = atoi(argv[2]);
     threads = atoi(argv[3]);
     l[2] = threads;
@@ -192,7 +192,7 @@ int main(int argc, char *argv[])
         printf("%ld\n", l[i-1]);
     }
     printf("classificar amostras\n");//*/
-    //threads = atoi(argv[3]);
+    threads = atoi(argv[3]);
     test(atoi(argv[1]), atoi(argv[2]));
 
     return 0;
