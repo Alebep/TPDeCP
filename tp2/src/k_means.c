@@ -150,9 +150,9 @@ void impri(cluster *cl, size_t s, int k)
     printf("\nIterations: %d\n", it - 1);
 }
 
-static void test()
+static void test(size_t size, int k)
 {
-    size_t size = 10000000L;
+    //size_t size = 10000000L;
     observation *observations = (observation *)malloc(sizeof(observation) * size);
     size_t i = 0;
     srand(10);
@@ -161,8 +161,9 @@ static void test()
         observations[i].x = (float)rand() / RAND_MAX;
         observations[i].y = (float)rand() / RAND_MAX;
     }
-    int k = 4; // No of clusters
+    //int k = 4; // No of clusters
     cluster *clusters = kMeans(observations, size, k);
+    //printf("%d\n",threads);
     impri(clusters, size, k);
     free(observations);
     free(clusters);
@@ -178,7 +179,7 @@ int main(int argc, char *argv[])
     // argv[2] -> corresponde ao numero de clusters
     // argv[3] -> corresponde ao numero de threads
     // test();
-    printf("%d\n", argc);
+    /*printf("%d\n", argc);
     size_t l[3];
     l[0] = atoi(argv[1]);
     l[1] = atoi(argv[2]);
@@ -188,8 +189,9 @@ int main(int argc, char *argv[])
     {
         printf("%ld\n", l[i-1]);
     }
-    printf("classificar amostras\n");
-    test();
+    printf("classificar amostras\n");//*/
+    threads = atoi(argv[3]);
+    test(atoi(argv[1]), atoi(argv[2]));
 
     return 0;
 }
