@@ -7,6 +7,8 @@
 #include <time.h>   /* time */
 #include "../include/utils.h"
 
+int threads = 1;
+
 typedef struct observation
 {
     float x;   /**< abscissa of 2D data point */
@@ -20,7 +22,6 @@ typedef struct cluster
     float y;      /**< ordinate of centroid of this cluster */
     size_t count; /**< count of observations present in this cluster */
 } cluster;
-
 
 int it = 0;
 
@@ -42,8 +43,6 @@ int calculateNearst(observation *o, cluster clusters[], int k)
     }
     return index;
 }
-
-
 
 cluster *kMeans(observation observations[], size_t size, int k)
 {
@@ -93,12 +92,12 @@ cluster *kMeans(observation observations[], size_t size, int k)
                     clusters[t].y += observations[j].y;
                     clusters[t].count++;
                 }
-                for (i = 0; i < k; i+=2)
+                for (i = 0; i < k; i += 2)
                 {
                     clusters[i].x /= clusters[i].count;
-                    clusters[i+1].x /= clusters[i+1].count;
+                    clusters[i + 1].x /= clusters[i + 1].count;
                     clusters[i].y /= clusters[i].count;
-                    clusters[i+1].y /= clusters[i+1].count;
+                    clusters[i + 1].y /= clusters[i + 1].count;
                 }
             }
             /* STEP 3 and 4 */
@@ -148,7 +147,7 @@ void impri(cluster *cl, size_t s, int k)
     {
         printf("Center: (%.3f, %.3f) : Size: %ld\n", cl[i].x, cl[i].y, cl[i].count);
     }
-    printf("\nIterations: %d\n", it-1);
+    printf("\nIterations: %d\n", it - 1);
 }
 
 static void test()
@@ -169,14 +168,28 @@ static void test()
     free(clusters);
 }
 
-
 /*!
  * This function calls the test
  * function
  */
 int main(int argc, char *argv[])
 {
-    //test();
-    printf("%d", argc);
+    // argv[1] -> corresponde ao numero de amostras
+    // argv[2] -> corresponde ao numero de clusters
+    // argv[3] -> corresponde ao numero de threads
+    // test();
+    printf("%d\n", argc);
+    size_t l[3];
+    l[0] = atoi(argv[1]);
+    l[1] = atoi(argv[2]);
+    threads = atoi(argv[3]);
+    l[2] = threads;
+    for (size_t i = 1; i < 4; i++)
+    {
+        printf("%ld\n", l[i-1]);
+    }
+    printf("classificar amostras\n");
+    test();
+
     return 0;
 }
