@@ -174,8 +174,9 @@ static void test()
  * This function calls the test
  * function
  */
-int main()
+int main(int argc, char *argv[])
 {
-    test();
+    //test();
+    printf("%d", argc);
     return 0;
 }
