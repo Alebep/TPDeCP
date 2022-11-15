@@ -163,21 +163,12 @@ static void test(size_t size, int k)
     // size_t size = 10000000L;
     observation *observations = (observation *)malloc(sizeof(observation) * size);
     srand(10);
-#pragma omp prallel num_threads(threads)
+    size_t i = 0;
+    for (; i < size; i++)
     {
-        size_t i = 0;
-#pragma omp sections
-        {
-#pragma omp section
-            {
-                for (; i < size; i++)
-                {
-                    // printf(" l %d- \n", omp_get_thread_num());
-                    observations[i].x = (float)rand() / RAND_MAX;
-                    observations[i].y = (float)rand() / RAND_MAX;
-                }
-            }
-        }
+        // printf(" l %d- \n", omp_get_thread_num());
+        observations[i].x = (float)rand() / RAND_MAX;
+        observations[i].y = (float)rand() / RAND_MAX;
     }
     // int k = 4; // No of clusters
     cluster *clusters = kMeans(observations, size, k);
