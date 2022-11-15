@@ -10,4 +10,4 @@ resultado do algoritimo com INLINE:
        7.276100000 seconds user
        0.027000000 seconds sys
 
-       ./bin/k_means 10000000 4 4
+       ./bin/k_means 10000000 4 4.
