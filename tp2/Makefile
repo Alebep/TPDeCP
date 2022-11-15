@@ -9,8 +9,8 @@ CFLAGS = -O3 -fopenmp
 
 .DEFAULT_GOAL = K_means
 
-K_means: $(SRC)K_means.c $(BIN)utils.o k_meansSeq
-	$(CC) $(CFLAGS) $(SRC)K_means.c $(BIN)utils.o -o $(BIN)$(EXEC)
+K_means: $(SRC)k_means.c $(BIN)utils.o k_meansSeq
+	$(CC) $(CFLAGS) $(SRC)k_means.c $(BIN)utils.o -o $(BIN)$(EXEC)
 
 $(BIN)utils.o: $(SRC)utils.c $(INCLUDES)utils.h
 	$(CC) $(CFLAGS) -c $(SRC)utils.c -o $(BIN)utils.o
