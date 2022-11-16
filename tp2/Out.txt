@@ -1,0 +1,1440 @@
+./bin/k_means 10000000 4 1
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m5.213s
+user	0m5.166s
+sys	0m0.043s
+./bin/k_means 10000000 4 1
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m5.189s
+user	0m5.148s
+sys	0m0.041s
+./bin/k_means 10000000 4 1
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m5.198s
+user	0m5.149s
+sys	0m0.046s
+./bin/k_means 10000000 4 1
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m5.288s
+user	0m5.242s
+sys	0m0.044s
+./bin/k_means 10000000 4 1
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m5.193s
+user	0m5.155s
+sys	0m0.037s
+./bin/k_means 10000000 4 1
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m5.208s
+user	0m5.167s
+sys	0m0.040s
+./bin/k_means 10000000 4 1
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m5.220s
+user	0m5.177s
+sys	0m0.039s
+./bin/k_means 10000000 4 1
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m5.190s
+user	0m5.153s
+sys	0m0.036s
+./bin/k_means 10000000 4 1
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m5.203s
+user	0m5.152s
+sys	0m0.048s
+./bin/k_means 10000000 4 1
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m5.278s
+user	0m5.234s
+sys	0m0.038s
+./bin/k_means 10000000 4 2
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.108s
+user	0m6.388s
+sys	0m0.051s
+./bin/k_means 10000000 4 2
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m5.186s
+user	0m8.540s
+sys	0m0.045s
+./bin/k_means 10000000 4 2
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.208s
+user	0m6.515s
+sys	0m0.042s
+./bin/k_means 10000000 4 2
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.257s
+user	0m6.552s
+sys	0m0.045s
+./bin/k_means 10000000 4 2
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.256s
+user	0m6.550s
+sys	0m0.045s
+./bin/k_means 10000000 4 2
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.169s
+user	0m6.462s
+sys	0m0.048s
+./bin/k_means 10000000 4 2
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.233s
+user	0m6.630s
+sys	0m0.044s
+./bin/k_means 10000000 4 2
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.164s
+user	0m6.559s
+sys	0m0.051s
+./bin/k_means 10000000 4 2
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.061s
+user	0m6.357s
+sys	0m0.045s
+./bin/k_means 10000000 4 2
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.173s
+user	0m6.565s
+sys	0m0.043s
+./bin/k_means 10000000 4 3
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.694s
+user	0m7.272s
+sys	0m0.050s
+./bin/k_means 10000000 4 3
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.547s
+user	0m10.055s
+sys	0m0.046s
+./bin/k_means 10000000 4 3
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.565s
+user	0m7.237s
+sys	0m0.047s
+./bin/k_means 10000000 4 3
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.658s
+user	0m7.266s
+sys	0m0.045s
+./bin/k_means 10000000 4 3
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.525s
+user	0m7.166s
+sys	0m0.045s
+./bin/k_means 10000000 4 3
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.678s
+user	0m7.272s
+sys	0m0.055s
+./bin/k_means 10000000 4 3
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.499s
+user	0m10.102s
+sys	0m0.044s
+./bin/k_means 10000000 4 3
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.612s
+user	0m7.234s
+sys	0m0.052s
+./bin/k_means 10000000 4 3
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.639s
+user	0m7.284s
+sys	0m0.043s
+./bin/k_means 10000000 4 3
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.261s
+user	0m9.503s
+sys	0m0.050s
+./bin/k_means 10000000 4 4
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.387s
+user	0m8.621s
+sys	0m0.054s
+./bin/k_means 10000000 4 4
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m8.970s
+user	0m27.518s
+sys	0m0.050s
+./bin/k_means 10000000 4 4
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.351s
+user	0m8.086s
+sys	0m0.057s
+./bin/k_means 10000000 4 4
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.327s
+user	0m8.038s
+sys	0m0.051s
+./bin/k_means 10000000 4 4
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.384s
+user	0m8.609s
+sys	0m0.050s
+./bin/k_means 10000000 4 4
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.406s
+user	0m8.640s
+sys	0m0.050s
+./bin/k_means 10000000 4 4
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.378s
+user	0m8.534s
+sys	0m0.051s
+./bin/k_means 10000000 4 4
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.460s
+user	0m8.492s
+sys	0m0.053s
+./bin/k_means 10000000 4 4
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.189s
+user	0m11.677s
+sys	0m0.058s
+./bin/k_means 10000000 4 4
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.332s
+user	0m12.497s
+sys	0m0.054s
+./bin/k_means 10000000 4 5
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.381s
+user	0m15.059s
+sys	0m0.050s
+./bin/k_means 10000000 4 5
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.384s
+user	0m9.815s
+sys	0m0.052s
+./bin/k_means 10000000 4 5
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.295s
+user	0m14.747s
+sys	0m0.056s
+./bin/k_means 10000000 4 5
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.290s
+user	0m9.457s
+sys	0m0.049s
+./bin/k_means 10000000 4 5
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.323s
+user	0m9.827s
+sys	0m0.043s
+./bin/k_means 10000000 4 5
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.308s
+user	0m9.861s
+sys	0m0.055s
+./bin/k_means 10000000 4 5
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.273s
+user	0m9.893s
+sys	0m0.046s
+./bin/k_means 10000000 4 5
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.434s
+user	0m10.098s
+sys	0m0.071s
+./bin/k_means 10000000 4 5
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.388s
+user	0m9.973s
+sys	0m0.050s
+./bin/k_means 10000000 4 5
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.150s
+user	0m14.197s
+sys	0m0.054s
+./bin/k_means 10000000 4 6
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.302s
+user	0m11.366s
+sys	0m0.051s
+./bin/k_means 10000000 4 6
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.253s
+user	0m11.375s
+sys	0m0.053s
+./bin/k_means 10000000 4 6
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.925s
+user	0m15.547s
+sys	0m0.050s
+./bin/k_means 10000000 4 6
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.995s
+user	0m15.679s
+sys	0m0.056s
+./bin/k_means 10000000 4 6
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.321s
+user	0m11.354s
+sys	0m0.054s
+./bin/k_means 10000000 4 6
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.270s
+user	0m11.434s
+sys	0m0.044s
+./bin/k_means 10000000 4 6
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.239s
+user	0m11.276s
+sys	0m0.050s
+./bin/k_means 10000000 4 6
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.343s
+user	0m11.437s
+sys	0m0.043s
+./bin/k_means 10000000 4 6
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.233s
+user	0m17.383s
+sys	0m0.057s
+./bin/k_means 10000000 4 6
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.269s
+user	0m11.230s
+sys	0m0.046s
+./bin/k_means 10000000 4 7
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.346s
+user	0m12.953s
+sys	0m0.053s
+./bin/k_means 10000000 4 7
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.252s
+user	0m13.016s
+sys	0m0.052s
+./bin/k_means 10000000 4 7
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.300s
+user	0m12.801s
+sys	0m0.056s
+./bin/k_means 10000000 4 7
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.246s
+user	0m12.963s
+sys	0m0.061s
+./bin/k_means 10000000 4 7
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.285s
+user	0m12.763s
+sys	0m0.054s
+./bin/k_means 10000000 4 7
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.244s
+user	0m12.761s
+sys	0m0.049s
+./bin/k_means 10000000 4 7
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.210s
+user	0m19.476s
+sys	0m0.059s
+./bin/k_means 10000000 4 7
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.255s
+user	0m12.982s
+sys	0m0.057s
+./bin/k_means 10000000 4 7
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.210s
+user	0m12.785s
+sys	0m0.045s
+./bin/k_means 10000000 4 7
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.162s
+user	0m19.324s
+sys	0m0.051s
+./bin/k_means 10000000 4 8
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.329s
+user	0m14.460s
+sys	0m0.045s
+./bin/k_means 10000000 4 8
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.275s
+user	0m14.405s
+sys	0m0.060s
+./bin/k_means 10000000 4 8
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.307s
+user	0m14.486s
+sys	0m0.053s
+./bin/k_means 10000000 4 8
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.249s
+user	0m14.319s
+sys	0m0.055s
+./bin/k_means 10000000 4 8
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.345s
+user	0m14.440s
+sys	0m0.048s
+./bin/k_means 10000000 4 8
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.290s
+user	0m14.497s
+sys	0m0.054s
+./bin/k_means 10000000 4 8
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.205s
+user	0m14.308s
+sys	0m0.051s
+./bin/k_means 10000000 4 8
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.143s
+user	0m21.347s
+sys	0m0.057s
+./bin/k_means 10000000 4 8
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.202s
+user	0m14.254s
+sys	0m0.050s
+./bin/k_means 10000000 4 8
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.325s
+user	0m14.466s
+sys	0m0.066s
+./bin/k_means 10000000 4 9
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.477s
+user	0m13.997s
+sys	0m0.062s
+./bin/k_means 10000000 4 9
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.369s
+user	0m13.796s
+sys	0m0.060s
+./bin/k_means 10000000 4 9
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.443s
+user	0m13.919s
+sys	0m0.062s
+./bin/k_means 10000000 4 9
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.409s
+user	0m13.798s
+sys	0m0.050s
+./bin/k_means 10000000 4 9
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.427s
+user	0m13.812s
+sys	0m0.065s
+./bin/k_means 10000000 4 9
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.434s
+user	0m13.866s
+sys	0m0.071s
+./bin/k_means 10000000 4 9
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.383s
+user	0m13.837s
+sys	0m0.058s
+./bin/k_means 10000000 4 9
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.450s
+user	0m13.939s
+sys	0m0.062s
+./bin/k_means 10000000 4 9
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m9.803s
+user	0m55.897s
+sys	0m0.072s
+./bin/k_means 10000000 4 9
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.478s
+user	0m13.914s
+sys	0m0.064s
+./bin/k_means 10000000 4 10
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.358s
+user	0m13.558s
+sys	0m0.072s
+./bin/k_means 10000000 4 10
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.390s
+user	0m13.809s
+sys	0m0.060s
+./bin/k_means 10000000 4 10
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.377s
+user	0m13.710s
+sys	0m0.059s
+./bin/k_means 10000000 4 10
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.349s
+user	0m13.628s
+sys	0m0.064s
+./bin/k_means 10000000 4 10
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.416s
+user	0m13.963s
+sys	0m0.064s
+./bin/k_means 10000000 4 10
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.338s
+user	0m13.772s
+sys	0m0.055s
+./bin/k_means 10000000 4 10
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.250s
+user	0m19.842s
+sys	0m0.057s
+./bin/k_means 10000000 4 10
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.528s
+user	0m13.753s
+sys	0m0.062s
+./bin/k_means 10000000 4 10
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.379s
+user	0m13.699s
+sys	0m0.062s
+./bin/k_means 10000000 4 10
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.286s
+user	0m13.542s
+sys	0m0.062s
+./bin/k_means 10000000 4 11
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.347s
+user	0m13.572s
+sys	0m0.073s
+./bin/k_means 10000000 4 11
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.147s
+user	0m19.792s
+sys	0m0.061s
+./bin/k_means 10000000 4 11
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.339s
+user	0m13.808s
+sys	0m0.066s
+./bin/k_means 10000000 4 11
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.280s
+user	0m13.823s
+sys	0m0.070s
+./bin/k_means 10000000 4 11
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.221s
+user	0m19.487s
+sys	0m0.071s
+./bin/k_means 10000000 4 11
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.349s
+user	0m13.887s
+sys	0m0.063s
+./bin/k_means 10000000 4 11
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.298s
+user	0m13.777s
+sys	0m0.055s
+./bin/k_means 10000000 4 11
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.369s
+user	0m13.792s
+sys	0m0.070s
+./bin/k_means 10000000 4 11
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.336s
+user	0m13.930s
+sys	0m0.065s
+./bin/k_means 10000000 4 11
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.347s
+user	0m13.858s
+sys	0m0.057s
+./bin/k_means 10000000 4 12
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.366s
+user	0m14.061s
+sys	0m0.060s
+./bin/k_means 10000000 4 12
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.167s
+user	0m20.490s
+sys	0m0.058s
+./bin/k_means 10000000 4 12
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.336s
+user	0m13.912s
+sys	0m0.069s
+./bin/k_means 10000000 4 12
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.202s
+user	0m20.643s
+sys	0m0.056s
+./bin/k_means 10000000 4 12
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.334s
+user	0m13.895s
+sys	0m0.071s
+./bin/k_means 10000000 4 12
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.275s
+user	0m13.841s
+sys	0m0.056s
+./bin/k_means 10000000 4 12
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m4.149s
+user	0m19.649s
+sys	0m0.067s
+./bin/k_means 10000000 4 12
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.303s
+user	0m13.906s
+sys	0m0.057s
+./bin/k_means 10000000 4 12
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.277s
+user	0m13.991s
+sys	0m0.065s
+./bin/k_means 10000000 4 12
+N = 10000000 k = 4
+Center: (0.250, 0.750) : Size: 2498728
+Center: (0.250, 0.250) : Size: 2501731
+Center: (0.750, 0.250) : Size: 2499396
+Center: (0.750, 0.750) : Size: 2500145
+
+Iterations: 20
+
+real	0m3.325s
+user	0m14.025s
+sys	0m0.075s
