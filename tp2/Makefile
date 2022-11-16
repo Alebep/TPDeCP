@@ -4,7 +4,7 @@ SRC = src/
 INCLUDES = include/
 EXEC = k_means
 EXECSEQ = k_meansSeq
-THREADS = 4
+THREADS = 8
 CFLAGS = -O3 -fopenmp
 
 .DEFAULT_GOAL = K_means
