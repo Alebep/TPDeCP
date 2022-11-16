@@ -1,1440 +1,4800 @@
-./bin/k_means 10000000 4 1
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+./bin/k_means 10000000 32 1
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m5.213s
-user	0m5.166s
-sys	0m0.043s
-./bin/k_means 10000000 4 1
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+real	0m30.025s
+user	0m29.953s
+sys	0m0.055s
+./bin/k_means 10000000 32 1
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m5.189s
-user	0m5.148s
+real	0m29.957s
+user	0m29.908s
+sys	0m0.046s
+./bin/k_means 10000000 32 1
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m30.008s
+user	0m29.950s
+sys	0m0.046s
+./bin/k_means 10000000 32 1
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m30.006s
+user	0m29.951s
+sys	0m0.048s
+./bin/k_means 10000000 32 1
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m30.005s
+user	0m29.962s
 sys	0m0.041s
-./bin/k_means 10000000 4 1
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+./bin/k_means 10000000 32 1
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m5.198s
-user	0m5.149s
-sys	0m0.046s
-./bin/k_means 10000000 4 1
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+real	0m29.891s
+user	0m29.842s
+sys	0m0.048s
+./bin/k_means 10000000 32 1
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m5.288s
-user	0m5.242s
-sys	0m0.044s
-./bin/k_means 10000000 4 1
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+real	0m29.935s
+user	0m29.858s
+sys	0m0.068s
+./bin/k_means 10000000 32 1
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m5.193s
-user	0m5.155s
-sys	0m0.037s
-./bin/k_means 10000000 4 1
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m5.208s
-user	0m5.167s
-sys	0m0.040s
-./bin/k_means 10000000 4 1
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m5.220s
-user	0m5.177s
-sys	0m0.039s
-./bin/k_means 10000000 4 1
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m5.190s
-user	0m5.153s
+real	0m29.984s
+user	0m29.944s
 sys	0m0.036s
-./bin/k_means 10000000 4 1
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m5.203s
-user	0m5.152s
-sys	0m0.048s
-./bin/k_means 10000000 4 1
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m5.278s
-user	0m5.234s
-sys	0m0.038s
-./bin/k_means 10000000 4 2
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.108s
-user	0m6.388s
-sys	0m0.051s
-./bin/k_means 10000000 4 2
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m5.186s
-user	0m8.540s
-sys	0m0.045s
-./bin/k_means 10000000 4 2
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.208s
-user	0m6.515s
-sys	0m0.042s
-./bin/k_means 10000000 4 2
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.257s
-user	0m6.552s
-sys	0m0.045s
-./bin/k_means 10000000 4 2
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.256s
-user	0m6.550s
-sys	0m0.045s
-./bin/k_means 10000000 4 2
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.169s
-user	0m6.462s
-sys	0m0.048s
-./bin/k_means 10000000 4 2
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.233s
-user	0m6.630s
-sys	0m0.044s
-./bin/k_means 10000000 4 2
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.164s
-user	0m6.559s
-sys	0m0.051s
-./bin/k_means 10000000 4 2
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.061s
-user	0m6.357s
-sys	0m0.045s
-./bin/k_means 10000000 4 2
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.173s
-user	0m6.565s
-sys	0m0.043s
-./bin/k_means 10000000 4 3
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.694s
-user	0m7.272s
-sys	0m0.050s
-./bin/k_means 10000000 4 3
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.547s
-user	0m10.055s
-sys	0m0.046s
-./bin/k_means 10000000 4 3
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.565s
-user	0m7.237s
-sys	0m0.047s
-./bin/k_means 10000000 4 3
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.658s
-user	0m7.266s
-sys	0m0.045s
-./bin/k_means 10000000 4 3
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.525s
-user	0m7.166s
-sys	0m0.045s
-./bin/k_means 10000000 4 3
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.678s
-user	0m7.272s
-sys	0m0.055s
-./bin/k_means 10000000 4 3
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.499s
-user	0m10.102s
-sys	0m0.044s
-./bin/k_means 10000000 4 3
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.612s
-user	0m7.234s
-sys	0m0.052s
-./bin/k_means 10000000 4 3
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.639s
-user	0m7.284s
-sys	0m0.043s
-./bin/k_means 10000000 4 3
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.261s
-user	0m9.503s
-sys	0m0.050s
-./bin/k_means 10000000 4 4
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.387s
-user	0m8.621s
-sys	0m0.054s
-./bin/k_means 10000000 4 4
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m8.970s
-user	0m27.518s
-sys	0m0.050s
-./bin/k_means 10000000 4 4
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.351s
-user	0m8.086s
-sys	0m0.057s
-./bin/k_means 10000000 4 4
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.327s
-user	0m8.038s
-sys	0m0.051s
-./bin/k_means 10000000 4 4
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.384s
-user	0m8.609s
-sys	0m0.050s
-./bin/k_means 10000000 4 4
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.406s
-user	0m8.640s
-sys	0m0.050s
-./bin/k_means 10000000 4 4
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.378s
-user	0m8.534s
-sys	0m0.051s
-./bin/k_means 10000000 4 4
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.460s
-user	0m8.492s
-sys	0m0.053s
-./bin/k_means 10000000 4 4
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.189s
-user	0m11.677s
-sys	0m0.058s
-./bin/k_means 10000000 4 4
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.332s
-user	0m12.497s
-sys	0m0.054s
-./bin/k_means 10000000 4 5
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.381s
-user	0m15.059s
-sys	0m0.050s
-./bin/k_means 10000000 4 5
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.384s
-user	0m9.815s
-sys	0m0.052s
-./bin/k_means 10000000 4 5
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.295s
-user	0m14.747s
-sys	0m0.056s
-./bin/k_means 10000000 4 5
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.290s
-user	0m9.457s
-sys	0m0.049s
-./bin/k_means 10000000 4 5
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.323s
-user	0m9.827s
-sys	0m0.043s
-./bin/k_means 10000000 4 5
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.308s
-user	0m9.861s
-sys	0m0.055s
-./bin/k_means 10000000 4 5
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.273s
-user	0m9.893s
-sys	0m0.046s
-./bin/k_means 10000000 4 5
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.434s
-user	0m10.098s
-sys	0m0.071s
-./bin/k_means 10000000 4 5
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.388s
-user	0m9.973s
-sys	0m0.050s
-./bin/k_means 10000000 4 5
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.150s
-user	0m14.197s
-sys	0m0.054s
-./bin/k_means 10000000 4 6
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.302s
-user	0m11.366s
-sys	0m0.051s
-./bin/k_means 10000000 4 6
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.253s
-user	0m11.375s
-sys	0m0.053s
-./bin/k_means 10000000 4 6
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.925s
-user	0m15.547s
-sys	0m0.050s
-./bin/k_means 10000000 4 6
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.995s
-user	0m15.679s
-sys	0m0.056s
-./bin/k_means 10000000 4 6
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.321s
-user	0m11.354s
-sys	0m0.054s
-./bin/k_means 10000000 4 6
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.270s
-user	0m11.434s
-sys	0m0.044s
-./bin/k_means 10000000 4 6
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.239s
-user	0m11.276s
-sys	0m0.050s
-./bin/k_means 10000000 4 6
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.343s
-user	0m11.437s
-sys	0m0.043s
-./bin/k_means 10000000 4 6
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.233s
-user	0m17.383s
-sys	0m0.057s
-./bin/k_means 10000000 4 6
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.269s
-user	0m11.230s
-sys	0m0.046s
-./bin/k_means 10000000 4 7
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.346s
-user	0m12.953s
-sys	0m0.053s
-./bin/k_means 10000000 4 7
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.252s
-user	0m13.016s
-sys	0m0.052s
-./bin/k_means 10000000 4 7
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.300s
-user	0m12.801s
-sys	0m0.056s
-./bin/k_means 10000000 4 7
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.246s
-user	0m12.963s
-sys	0m0.061s
-./bin/k_means 10000000 4 7
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.285s
-user	0m12.763s
-sys	0m0.054s
-./bin/k_means 10000000 4 7
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.244s
-user	0m12.761s
-sys	0m0.049s
-./bin/k_means 10000000 4 7
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.210s
-user	0m19.476s
-sys	0m0.059s
-./bin/k_means 10000000 4 7
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.255s
-user	0m12.982s
-sys	0m0.057s
-./bin/k_means 10000000 4 7
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.210s
-user	0m12.785s
-sys	0m0.045s
-./bin/k_means 10000000 4 7
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.162s
-user	0m19.324s
-sys	0m0.051s
-./bin/k_means 10000000 4 8
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.329s
-user	0m14.460s
-sys	0m0.045s
-./bin/k_means 10000000 4 8
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.275s
-user	0m14.405s
-sys	0m0.060s
-./bin/k_means 10000000 4 8
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.307s
-user	0m14.486s
-sys	0m0.053s
-./bin/k_means 10000000 4 8
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.249s
-user	0m14.319s
-sys	0m0.055s
-./bin/k_means 10000000 4 8
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.345s
-user	0m14.440s
-sys	0m0.048s
-./bin/k_means 10000000 4 8
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.290s
-user	0m14.497s
-sys	0m0.054s
-./bin/k_means 10000000 4 8
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.205s
-user	0m14.308s
-sys	0m0.051s
-./bin/k_means 10000000 4 8
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.143s
-user	0m21.347s
-sys	0m0.057s
-./bin/k_means 10000000 4 8
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.202s
-user	0m14.254s
-sys	0m0.050s
-./bin/k_means 10000000 4 8
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.325s
-user	0m14.466s
-sys	0m0.066s
-./bin/k_means 10000000 4 9
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.477s
-user	0m13.997s
-sys	0m0.062s
-./bin/k_means 10000000 4 9
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.369s
-user	0m13.796s
-sys	0m0.060s
-./bin/k_means 10000000 4 9
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.443s
-user	0m13.919s
-sys	0m0.062s
-./bin/k_means 10000000 4 9
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.409s
-user	0m13.798s
-sys	0m0.050s
-./bin/k_means 10000000 4 9
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.427s
-user	0m13.812s
-sys	0m0.065s
-./bin/k_means 10000000 4 9
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.434s
-user	0m13.866s
-sys	0m0.071s
-./bin/k_means 10000000 4 9
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.383s
-user	0m13.837s
-sys	0m0.058s
-./bin/k_means 10000000 4 9
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.450s
-user	0m13.939s
-sys	0m0.062s
-./bin/k_means 10000000 4 9
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m9.803s
-user	0m55.897s
-sys	0m0.072s
-./bin/k_means 10000000 4 9
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.478s
-user	0m13.914s
-sys	0m0.064s
-./bin/k_means 10000000 4 10
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.358s
-user	0m13.558s
-sys	0m0.072s
-./bin/k_means 10000000 4 10
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.390s
-user	0m13.809s
-sys	0m0.060s
-./bin/k_means 10000000 4 10
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.377s
-user	0m13.710s
-sys	0m0.059s
-./bin/k_means 10000000 4 10
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.349s
-user	0m13.628s
-sys	0m0.064s
-./bin/k_means 10000000 4 10
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.416s
-user	0m13.963s
-sys	0m0.064s
-./bin/k_means 10000000 4 10
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.338s
-user	0m13.772s
-sys	0m0.055s
-./bin/k_means 10000000 4 10
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.250s
-user	0m19.842s
-sys	0m0.057s
-./bin/k_means 10000000 4 10
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.528s
-user	0m13.753s
-sys	0m0.062s
-./bin/k_means 10000000 4 10
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.379s
-user	0m13.699s
-sys	0m0.062s
-./bin/k_means 10000000 4 10
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.286s
-user	0m13.542s
-sys	0m0.062s
-./bin/k_means 10000000 4 11
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.347s
-user	0m13.572s
-sys	0m0.073s
-./bin/k_means 10000000 4 11
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.147s
-user	0m19.792s
-sys	0m0.061s
-./bin/k_means 10000000 4 11
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.339s
-user	0m13.808s
-sys	0m0.066s
-./bin/k_means 10000000 4 11
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.280s
-user	0m13.823s
-sys	0m0.070s
-./bin/k_means 10000000 4 11
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m4.221s
-user	0m19.487s
-sys	0m0.071s
-./bin/k_means 10000000 4 11
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.349s
-user	0m13.887s
+./bin/k_means 10000000 32 1
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m29.929s
+user	0m29.859s
 sys	0m0.063s
-./bin/k_means 10000000 4 11
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+./bin/k_means 10000000 32 1
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m3.298s
-user	0m13.777s
+real	0m29.887s
+user	0m29.845s
+sys	0m0.041s
+./bin/k_means 10000000 32 2
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m16.726s
+user	0m31.647s
+sys	0m0.046s
+./bin/k_means 10000000 32 2
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m16.623s
+user	0m31.408s
+sys	0m0.056s
+./bin/k_means 10000000 32 2
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m16.759s
+user	0m31.678s
+sys	0m0.050s
+./bin/k_means 10000000 32 2
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m16.777s
+user	0m31.708s
+sys	0m0.049s
+./bin/k_means 10000000 32 2
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m16.648s
+user	0m31.573s
+sys	0m0.050s
+./bin/k_means 10000000 32 2
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m16.775s
+user	0m31.694s
+sys	0m0.045s
+./bin/k_means 10000000 32 2
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m16.620s
+user	0m31.567s
 sys	0m0.055s
-./bin/k_means 10000000 4 11
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+./bin/k_means 10000000 32 2
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m3.369s
-user	0m13.792s
-sys	0m0.070s
-./bin/k_means 10000000 4 11
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+real	0m16.515s
+user	0m31.354s
+sys	0m0.049s
+./bin/k_means 10000000 32 2
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m3.336s
-user	0m13.930s
-sys	0m0.065s
-./bin/k_means 10000000 4 11
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+real	0m16.439s
+user	0m31.192s
+sys	0m0.044s
+./bin/k_means 10000000 32 2
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m3.347s
-user	0m13.858s
+real	0m16.474s
+user	0m31.280s
+sys	0m0.044s
+./bin/k_means 10000000 32 3
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m12.102s
+user	0m32.895s
+sys	0m0.047s
+./bin/k_means 10000000 32 3
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m12.014s
+user	0m32.695s
+sys	0m0.056s
+./bin/k_means 10000000 32 3
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m12.233s
+user	0m33.116s
+sys	0m0.048s
+./bin/k_means 10000000 32 3
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m12.133s
+user	0m32.978s
+sys	0m0.045s
+./bin/k_means 10000000 32 3
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m12.111s
+user	0m33.015s
+sys	0m0.047s
+./bin/k_means 10000000 32 3
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m12.096s
+user	0m32.960s
+sys	0m0.049s
+./bin/k_means 10000000 32 3
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m11.984s
+user	0m32.633s
+sys	0m0.050s
+./bin/k_means 10000000 32 3
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m12.027s
+user	0m32.807s
+sys	0m0.038s
+./bin/k_means 10000000 32 3
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m12.022s
+user	0m32.728s
+sys	0m0.056s
+./bin/k_means 10000000 32 3
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m12.280s
+user	0m33.223s
+sys	0m0.044s
+./bin/k_means 10000000 32 4
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m9.736s
+user	0m34.239s
+sys	0m0.044s
+./bin/k_means 10000000 32 4
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m9.879s
+user	0m34.118s
+sys	0m0.041s
+./bin/k_means 10000000 32 4
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m9.919s
+user	0m34.414s
+sys	0m0.047s
+./bin/k_means 10000000 32 4
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m9.944s
+user	0m34.520s
+sys	0m0.052s
+./bin/k_means 10000000 32 4
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m9.958s
+user	0m34.618s
+sys	0m0.059s
+./bin/k_means 10000000 32 4
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m9.912s
+user	0m34.418s
+sys	0m0.055s
+./bin/k_means 10000000 32 4
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m9.523s
+user	0m33.227s
+sys	0m0.054s
+./bin/k_means 10000000 32 4
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m9.906s
+user	0m34.345s
+sys	0m0.053s
+./bin/k_means 10000000 32 4
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m9.755s
+user	0m33.680s
+sys	0m0.054s
+./bin/k_means 10000000 32 4
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m9.710s
+user	0m33.918s
 sys	0m0.057s
-./bin/k_means 10000000 4 12
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+./bin/k_means 10000000 32 5
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m3.366s
-user	0m14.061s
-sys	0m0.060s
-./bin/k_means 10000000 4 12
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+real	0m8.642s
+user	0m36.255s
+sys	0m0.061s
+./bin/k_means 10000000 32 5
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m4.167s
-user	0m20.490s
-sys	0m0.058s
-./bin/k_means 10000000 4 12
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+real	0m8.349s
+user	0m35.175s
+sys	0m0.054s
+./bin/k_means 10000000 32 5
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m3.336s
-user	0m13.912s
+real	0m8.602s
+user	0m35.772s
+sys	0m0.057s
+./bin/k_means 10000000 32 5
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m8.617s
+user	0m36.037s
+sys	0m0.052s
+./bin/k_means 10000000 32 5
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m8.351s
+user	0m34.777s
+sys	0m0.050s
+./bin/k_means 10000000 32 5
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m8.525s
+user	0m35.963s
+sys	0m0.065s
+./bin/k_means 10000000 32 5
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m8.320s
+user	0m34.891s
+sys	0m0.066s
+./bin/k_means 10000000 32 5
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m8.557s
+user	0m35.963s
+sys	0m0.050s
+./bin/k_means 10000000 32 5
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m8.276s
+user	0m34.432s
+sys	0m0.056s
+./bin/k_means 10000000 32 5
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m17.047s
+user	1m14.383s
+sys	0m0.055s
+./bin/k_means 10000000 32 6
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.613s
+user	0m37.095s
+sys	0m0.046s
+./bin/k_means 10000000 32 6
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.508s
+user	0m37.010s
+sys	0m0.056s
+./bin/k_means 10000000 32 6
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.534s
+user	0m36.677s
+sys	0m0.054s
+./bin/k_means 10000000 32 6
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.538s
+user	0m37.064s
+sys	0m0.057s
+./bin/k_means 10000000 32 6
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m23.482s
+user	2m12.212s
 sys	0m0.069s
-./bin/k_means 10000000 4 12
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+./bin/k_means 10000000 32 6
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m4.202s
-user	0m20.643s
+real	0m7.456s
+user	0m36.365s
+sys	0m0.047s
+./bin/k_means 10000000 32 6
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.584s
+user	0m36.864s
 sys	0m0.056s
-./bin/k_means 10000000 4 12
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+./bin/k_means 10000000 32 6
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m3.334s
-user	0m13.895s
+real	0m7.499s
+user	0m36.424s
+sys	0m0.049s
+./bin/k_means 10000000 32 6
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.457s
+user	0m36.842s
+sys	0m0.059s
+./bin/k_means 10000000 32 6
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.530s
+user	0m36.517s
+sys	0m0.052s
+./bin/k_means 10000000 32 7
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.894s
+user	0m37.936s
+sys	0m0.061s
+./bin/k_means 10000000 32 7
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.856s
+user	0m37.659s
+sys	0m0.066s
+./bin/k_means 10000000 32 7
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.869s
+user	0m37.919s
+sys	0m0.054s
+./bin/k_means 10000000 32 7
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.999s
+user	0m38.718s
+sys	0m0.054s
+./bin/k_means 10000000 32 7
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.928s
+user	0m38.322s
+sys	0m0.063s
+./bin/k_means 10000000 32 7
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.983s
+user	0m38.383s
+sys	0m0.068s
+./bin/k_means 10000000 32 7
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.902s
+user	0m38.023s
+sys	0m0.070s
+./bin/k_means 10000000 32 7
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.844s
+user	0m37.620s
+sys	0m0.050s
+./bin/k_means 10000000 32 7
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.799s
+user	0m37.559s
+sys	0m0.061s
+./bin/k_means 10000000 32 7
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.837s
+user	0m37.492s
+sys	0m0.055s
+./bin/k_means 10000000 32 8
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.436s
+user	0m39.137s
+sys	0m0.058s
+./bin/k_means 10000000 32 8
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.409s
+user	0m39.649s
+sys	0m0.061s
+./bin/k_means 10000000 32 8
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.518s
+user	0m39.830s
+sys	0m0.064s
+./bin/k_means 10000000 32 8
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.457s
+user	0m39.568s
+sys	0m0.048s
+./bin/k_means 10000000 32 8
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.418s
+user	0m39.777s
+sys	0m0.052s
+./bin/k_means 10000000 32 8
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.450s
+user	0m39.159s
+sys	0m0.061s
+./bin/k_means 10000000 32 8
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.435s
+user	0m39.175s
+sys	0m0.070s
+./bin/k_means 10000000 32 8
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.519s
+user	0m39.908s
+sys	0m0.060s
+./bin/k_means 10000000 32 8
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.487s
+user	0m39.794s
+sys	0m0.051s
+./bin/k_means 10000000 32 8
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.430s
+user	0m39.686s
+sys	0m0.054s
+./bin/k_means 10000000 32 9
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.446s
+user	0m38.071s
+sys	0m0.060s
+./bin/k_means 10000000 32 9
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.583s
+user	0m39.010s
 sys	0m0.071s
-./bin/k_means 10000000 4 12
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+./bin/k_means 10000000 32 9
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m3.275s
-user	0m13.841s
-sys	0m0.056s
-./bin/k_means 10000000 4 12
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+real	0m7.377s
+user	0m37.962s
+sys	0m0.070s
+./bin/k_means 10000000 32 9
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m4.149s
-user	0m19.649s
+real	0m7.516s
+user	0m38.124s
 sys	0m0.067s
-./bin/k_means 10000000 4 12
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+./bin/k_means 10000000 32 9
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m3.303s
-user	0m13.906s
-sys	0m0.057s
-./bin/k_means 10000000 4 12
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
+real	0m7.487s
+user	0m38.206s
+sys	0m0.068s
+./bin/k_means 10000000 32 9
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
 
 Iterations: 20
 
-real	0m3.277s
-user	0m13.991s
-sys	0m0.065s
-./bin/k_means 10000000 4 12
-N = 10000000 k = 4
-Center: (0.250, 0.750) : Size: 2498728
-Center: (0.250, 0.250) : Size: 2501731
-Center: (0.750, 0.250) : Size: 2499396
-Center: (0.750, 0.750) : Size: 2500145
-
-Iterations: 20
-
-real	0m3.325s
-user	0m14.025s
+real	0m7.490s
+user	0m38.540s
 sys	0m0.075s
+./bin/k_means 10000000 32 9
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.619s
+user	0m39.203s
+sys	0m0.070s
+./bin/k_means 10000000 32 9
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.543s
+user	0m38.915s
+sys	0m0.064s
+./bin/k_means 10000000 32 9
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.585s
+user	0m38.791s
+sys	0m0.053s
+./bin/k_means 10000000 32 9
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.611s
+user	0m39.020s
+sys	0m0.057s
+./bin/k_means 10000000 32 10
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.321s
+user	0m38.677s
+sys	0m0.059s
+./bin/k_means 10000000 32 10
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.355s
+user	0m38.808s
+sys	0m0.068s
+./bin/k_means 10000000 32 10
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.217s
+user	0m38.649s
+sys	0m0.066s
+./bin/k_means 10000000 32 10
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.359s
+user	0m38.789s
+sys	0m0.064s
+./bin/k_means 10000000 32 10
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.292s
+user	0m38.053s
+sys	0m0.059s
+./bin/k_means 10000000 32 10
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.406s
+user	0m38.872s
+sys	0m0.078s
+./bin/k_means 10000000 32 10
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.332s
+user	0m38.718s
+sys	0m0.070s
+./bin/k_means 10000000 32 10
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m17.476s
+user	1m59.241s
+sys	0m0.081s
+./bin/k_means 10000000 32 10
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.346s
+user	0m38.424s
+sys	0m0.065s
+./bin/k_means 10000000 32 10
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.326s
+user	0m39.039s
+sys	0m0.068s
+./bin/k_means 10000000 32 11
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.156s
+user	0m38.936s
+sys	0m0.057s
+./bin/k_means 10000000 32 11
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.031s
+user	0m38.813s
+sys	0m0.072s
+./bin/k_means 10000000 32 11
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.095s
+user	0m38.016s
+sys	0m0.057s
+./bin/k_means 10000000 32 11
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.105s
+user	0m38.927s
+sys	0m0.057s
+./bin/k_means 10000000 32 11
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.096s
+user	0m38.719s
+sys	0m0.065s
+./bin/k_means 10000000 32 11
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.125s
+user	0m38.868s
+sys	0m0.068s
+./bin/k_means 10000000 32 11
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.135s
+user	0m38.890s
+sys	0m0.072s
+./bin/k_means 10000000 32 11
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.022s
+user	0m38.660s
+sys	0m0.065s
+./bin/k_means 10000000 32 11
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.174s
+user	0m39.015s
+sys	0m0.063s
+./bin/k_means 10000000 32 11
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.087s
+user	0m38.161s
+sys	0m0.075s
+./bin/k_means 10000000 32 12
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.783s
+user	0m38.345s
+sys	0m0.063s
+./bin/k_means 10000000 32 12
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.704s
+user	0m38.157s
+sys	0m0.069s
+./bin/k_means 10000000 32 12
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.914s
+user	0m39.188s
+sys	0m0.077s
+./bin/k_means 10000000 32 12
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.886s
+user	0m39.067s
+sys	0m0.059s
+./bin/k_means 10000000 32 12
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.934s
+user	0m39.172s
+sys	0m0.066s
+./bin/k_means 10000000 32 12
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.003s
+user	0m39.416s
+sys	0m0.072s
+./bin/k_means 10000000 32 12
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.811s
+user	0m38.323s
+sys	0m0.058s
+./bin/k_means 10000000 32 12
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.851s
+user	0m39.093s
+sys	0m0.068s
+./bin/k_means 10000000 32 12
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m7.145s
+user	0m38.905s
+sys	0m0.068s
+./bin/k_means 10000000 32 12
+N = 10000000 k = 32
+Center: (0.519, 0.600) : Size: 363497
+Center: (0.626, 0.106) : Size: 299275
+Center: (0.714, 0.296) : Size: 363807
+Center: (0.583, 0.420) : Size: 299041
+Center: (0.105, 0.421) : Size: 331018
+Center: (0.068, 0.084) : Size: 236536
+Center: (0.913, 0.921) : Size: 282822
+Center: (0.775, 0.099) : Size: 294654
+Center: (0.344, 0.120) : Size: 284166
+Center: (0.903, 0.599) : Size: 326821
+Center: (0.737, 0.907) : Size: 328452
+Center: (0.926, 0.086) : Size: 262699
+Center: (0.273, 0.303) : Size: 352888
+Center: (0.086, 0.757) : Size: 291885
+Center: (0.292, 0.529) : Size: 350521
+Center: (0.574, 0.879) : Size: 347951
+Center: (0.210, 0.095) : Size: 271021
+Center: (0.085, 0.922) : Size: 274116
+Center: (0.252, 0.700) : Size: 307089
+Center: (0.413, 0.420) : Size: 297577
+Center: (0.901, 0.426) : Size: 330365
+Center: (0.417, 0.922) : Size: 280570
+Center: (0.494, 0.253) : Size: 336451
+Center: (0.092, 0.584) : Size: 310292
+Center: (0.423, 0.739) : Size: 336081
+Center: (0.253, 0.896) : Size: 329081
+Center: (0.905, 0.259) : Size: 317508
+Center: (0.089, 0.254) : Size: 302068
+Center: (0.478, 0.073) : Size: 240955
+Center: (0.895, 0.760) : Size: 326523
+Center: (0.728, 0.516) : Size: 344507
+Center: (0.691, 0.708) : Size: 379763
+
+Iterations: 20
+
+real	0m6.931s
+user	0m39.120s
+sys	0m0.066s
