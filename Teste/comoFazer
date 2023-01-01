@@ -1,0 +1,5 @@
+mpicc send_recv_mpi.c -o send_recv_mpi
+
+mpirun -np 2 ./send_recv_mpi
+
+-np : é o numero de processos.
