@@ -1,0 +1,13 @@
+resultado do algoritimo com INLINE:
+
+ Performance counter stats for './k_means':
+
+    26,868,386,762      instructions              #    1.23  insn per cycle
+    21,925,691,164      cycles
+
+       7.303935070 seconds time elapsed
+
+       7.276100000 seconds user
+       0.027000000 seconds sys
+
+       ./bin/k_means 10000000 4 4.
