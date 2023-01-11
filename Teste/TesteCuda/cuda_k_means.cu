@@ -116,7 +116,8 @@ __global__ void kernelMain(observation *observations, cluster *clusters, int *k,
         if (pv != observations[threadID].group)
         {
             observations[threadID].group = pv;
-            (*changed)++;
+            //(*changed)++;
+            atomicAdd(changed, 1);
         }
     }
 }
