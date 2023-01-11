@@ -52,6 +52,7 @@ int calculateNearst(observation *o, cluster clusters[], int k)
     printf("%d",t);
 }*/
 
+/*
 void kernelMain(observation *observations, cluster *clusters, int *k, int *sizeO, int *changed)
 {
     int i,pv = 0;
@@ -63,7 +64,7 @@ void kernelMain(observation *observations, cluster *clusters, int *k, int *sizeO
         int j = 0;
         for (j = 0; j < *k; j++)
         {
-            /* Calculate Squared Distance*/
+            //Calculate Squared Distance
             dist = (clusters[j].x - observations[i].x) * (clusters[j].x - observations[i].x) 
             + (clusters[j].y - observations[i].y) * (clusters[j].y - observations[i].y);
             if (dist < minD)
@@ -84,6 +85,43 @@ void kernelMain(observation *observations, cluster *clusters, int *k, int *sizeO
         }
     }
 }
+//*/
+
+__global__ void kernelMain(observation *observations, cluster *clusters, int *k, int *sizeO, int *changed)
+{
+    int threadID = threadIdx.x + blockIdx.x * blockDim.x;
+    int pv = 0;
+    if(threadID < *sizeO)
+    {
+        float minD = DBL_MAX;
+        float dist = 0;
+        int index = -1;
+        int j = 0;
+        for (j = 0; j < *k; j++)
+        {
+            //Calculate Squared Distance
+            dist = (clusters[j].x - observations[threadID].x) * (clusters[j].x - observations[threadID].x) 
+            + (clusters[j].y - observations[threadID].y) * (clusters[j].y - observations[threadID].y);
+            if (dist < minD)
+            {
+                minD = dist;
+                index = j;
+            }
+        }
+        pv = index;
+
+
+
+        //pv = calculateNearst(observations + i, clusters, *k);
+        if (pv != observations[threadID].group)
+        {
+            observations[threadID].group = pv;
+            (*changed)++;
+        }
+    }
+}
+
+
 
 int main(int argc, char *argv[])
 {   
@@ -93,14 +131,14 @@ int main(int argc, char *argv[])
 
     int sizeCl = CLUSTERS_COUNT * sizeof(cluster);
     int sizeO = OBSERVATIONS_COUNT * sizeof(observation);
-    //int sizeI = 1*sizeof(int);
+    int sizeI = 1*sizeof(int);
 
     observation *observations = (observation*) malloc(sizeO);
     cluster *clusters = (cluster*) malloc(sizeCl);
     int i;
 
     //variaveis do device
-    /*
+    ///*
     observation *gpu_observations;
     cluster *gpu_clusters;
     int *gpu_countCL; //= CLUSTERS_COUNT;
@@ -163,7 +201,7 @@ int main(int argc, char *argv[])
             clusters[i].y /= clusters[i].count;
         }
 
-        ///*
+        /*
         int gpu_countCL= CLUSTERS_COUNT;
         int gpu_countOB= OBSERVATIONS_COUNT;
         int gpu_changed = changed;
@@ -172,7 +210,7 @@ int main(int argc, char *argv[])
         changed = gpu_changed;
         //*/
 
-        /*
+        ///*
         //copiando as observacoes, cluster e a variavel que controla as mudanca pro device
         cudaMemcpy( gpu_changed, &changed, sizeI, cudaMemcpyHostToDevice);
         cudaMemcpy( gpu_observations, observations, sizeO, cudaMemcpyHostToDevice);
