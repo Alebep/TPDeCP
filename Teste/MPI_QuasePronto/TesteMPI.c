@@ -50,8 +50,8 @@ int main(int argc, char **argv)
 
     observation *observations = malloc(OBSERVATIONS_COUNT * sizeof(observation));
     cluster *clusters = malloc(CLUSTERS_COUNT * sizeof(cluster));
-    observation localObservations[OBSERVATIONS_COUNT / size];
-    cluster localClusters[CLUSTERS_COUNT];
+    observation *localObservations = malloc ((OBSERVATIONS_COUNT / size) * sizeof(observation));
+    cluster *localClusters = malloc(CLUSTERS_COUNT * sizeof(cluster));
     int localObservationsCount = OBSERVATIONS_COUNT / size;
     int i;
      int changed, t, it = 0;
@@ -93,12 +93,10 @@ int main(int argc, char **argv)
             clusters[i].x /= clusters[i].count;
             clusters[i].y /= clusters[i].count;
         }
-        
     }
 
     // Divide observations among processes
     MPI_Scatter(observations, localObservationsCount, MPI_FLOAT, localObservations, localObservationsCount, MPI_FLOAT, 0, MPI_COMM_WORLD);
-   
     do
     {
         changed = 0;
@@ -132,8 +130,7 @@ int main(int argc, char **argv)
             localClusters[t].count++;
         }
         // Gather local clusters back into a single array
-        MPI_Reduce(localClusters, clusters, CLUSTERS_COUNT, MPI_INT, MPI_SUM, 0, MPI_COMM_WORLD);
-        //MPI_Allgather(localClusters, CLUSTERS_COUNT, MPI_FLOAT, clusters, CLUSTERS_COUNT, MPI_FLOAT, MPI_COMM_WORLD);
+        MPI_Allgather(localClusters, CLUSTERS_COUNT, MPI_FLOAT, clusters, CLUSTERS_COUNT, MPI_FLOAT, MPI_COMM_WORLD);
         for (i = 0; i < CLUSTERS_COUNT; i++)
         {
             clusters[i].x /= clusters[i].count;
