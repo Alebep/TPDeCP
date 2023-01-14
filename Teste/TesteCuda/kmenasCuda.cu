@@ -37,7 +37,7 @@ __global__ void mainKernel(observation *observations, cluster *clusters, int *ch
         if (pv != observations[threadId].group)
         {
             //aqui ha concorrencia mais e controlada, nao tm potencial para alterar nada
-            changed++;
+            (*changed)++;
             observations[threadId].group = pv;
         }
     }

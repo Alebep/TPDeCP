@@ -6,6 +6,7 @@
 
 #define OBSERVATIONS_COUNT 1000000
 #define CLUSTERS_COUNT 32
+
 typedef struct observation
 {
     float x;   /**< abscissa of 2D data point */
@@ -56,7 +57,6 @@ int main(int argc, char **argv)
 
     if (rank == 0)
     {
-        srand(10);
         // Generate random observations
         for (i = 0; i < OBSERVATIONS_COUNT; i++)
         {
@@ -70,37 +70,26 @@ int main(int argc, char **argv)
             clusters[i].x = observations[i].x;
             clusters[i].y = observations[i].y;
             clusters[i].count = 0;
-        }
+       }
         for (i = 0; i < OBSERVATIONS_COUNT; i++)
         {
             observations[i].group = calculateNearst(observations + i, clusters, CLUSTERS_COUNT);
-        }
-         for (i = 0; i < CLUSTERS_COUNT; i++)
-        {
-            printf("Cluster %d: (%.3f, %.3f) with %zu observations\n", i, clusters[i].x, clusters[i].y, clusters[i].count);
         }
     }
 
     // Divide observations among processes
     MPI_Scatter(observations, localObservationsCount, MPI_FLOAT, localObservations, localObservationsCount, MPI_FLOAT, 0, MPI_COMM_WORLD);
 
-    int changed, t; it = 0;
+    int changed, t, it = 0;
     do
     {
         changed = 0;
+
         // Calculate nearest cluster for each local observation
         for (i = 0; i < localObservationsCount; i++)
         {
             t = calculateNearst(localObservations + i, clusters, CLUSTERS_COUNT);
-            if(it > 0)
-            {
-                if (localObservations[i].group != t)
-                {
-                    localObservations[i].group = t;
-                    changed++;
-                }
-            }
-            else
+            if (localObservations[i].group != t)
             {
                 localObservations[i].group = t;
                 changed++;
@@ -131,9 +120,9 @@ int main(int argc, char **argv)
             clusters[i].x /= clusters[i].count;
             clusters[i].y /= clusters[i].count;
         }
-        it++;
-        if(it == 21)
+       if (it == 21)
             break;
+        it++;
     } while (changed > 0);
 
     if (rank == 0)
@@ -141,9 +130,8 @@ int main(int argc, char **argv)
         printf("Final centroids:\n");
         for (i = 0; i < CLUSTERS_COUNT; i++)
         {
-            printf("Cluster %d: (%.3f, %.3f) with %zu observations\n", i, clusters[i].x, clusters[i].y, clusters[i].count);
+            printf("Cluster %d: (%.2f, %.2f) with %zu observations\n", i, clusters[i].x, clusters[i].y, clusters[i].count);
         }
-        printf("%d\n\n", it);
     }
 
     MPI_Finalize();

@@ -5,7 +5,7 @@
 #include <stdlib.h> /* rand */
 #include <string.h> /* memset */
 #include <time.h>   /* time */
-#include "../include/utils.h"
+//#include "../include/utils.h"
 
 typedef struct observation
 {

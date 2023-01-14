@@ -30,7 +30,6 @@ int calculateNearst(observation *o, cluster clusters[], int k)
     for (; i < k; i++)
     {
         /* Calculate Squared Distance*/
-        
         dist = (clusters[i].x - o->x) * (clusters[i].x - o->x) + (clusters[i].y - o->y) * (clusters[i].y - o->y);
         if (dist < minD)
         {
@@ -39,39 +38,6 @@ int calculateNearst(observation *o, cluster clusters[], int k)
         }
     }
     return index;
-}
-
-void kernelMain(observation *observations, cluster *clusters, int *k, int *sizeO, int *changed)
-{
-    int i,pv = 0;
-    for (i = 0; i < *sizeO; i++)
-    {
-        float minD = DBL_MAX;
-        float dist = 0;
-        int index = -1;
-        int j = 0;
-        for (j = 0; j < *k; j++)
-        {
-            /* Calculate Squared Distance*/
-            dist = (clusters[j].x - observations[i].x) * (clusters[j].x - observations[i].x) 
-            + (clusters[j].y - observations[i].y) * (clusters[j].y - observations[i].y);
-            if (dist < minD)
-            {
-                minD = dist;
-                index = j;
-            }
-        }
-        pv = index;
-
-
-
-        //pv = calculateNearst(observations + i, clusters, *k);
-        if (pv != observations[i].group)
-        {
-            observations[i].group = pv;
-            (*changed)++;
-        }
-    }
 }
 
 int main(int argc, char **argv)
@@ -99,12 +65,41 @@ int main(int argc, char **argv)
     {
         observations[i].group = calculateNearst(observations + i, clusters, CLUSTERS_COUNT);
     }
-    
+    // Calculate new centroids for each cluster
+    for (i = 0; i < CLUSTERS_COUNT; i++)
+    {
+        clusters[i].x = 0;
+        clusters[i].y = 0;
+        clusters[i].count = 0;
+    }
+    int l;
+    for (i = 0; i < OBSERVATIONS_COUNT; i++)
+    {
+        l = observations[i].group;
+        clusters[l].x += observations[i].x;
+        clusters[l].y += observations[i].y;
+        clusters[l].count++;
+    }
+    for (i = 0; i < CLUSTERS_COUNT; i++)
+    {
+        clusters[i].x /= clusters[i].count;
+        clusters[i].y /= clusters[i].count;
+    }
 
     int changed, t, it = 0;
     do
     {
         changed = 0;
+         for (i = 0; i < OBSERVATIONS_COUNT; i++)
+        {
+            t = calculateNearst(observations + i, clusters, CLUSTERS_COUNT);
+            if (t != observations[i].group)
+            {
+                observations[i].group = t;
+                changed++;
+            }
+        }
+       
         // Calculate new centroids for each cluster
         for (i = 0; i < CLUSTERS_COUNT; i++)
         {
@@ -125,28 +120,9 @@ int main(int argc, char **argv)
             clusters[i].x /= clusters[i].count;
             clusters[i].y /= clusters[i].count;
         }
-
-        int gpu_countCL = CLUSTERS_COUNT;
-        int gpu_countOB = OBSERVATIONS_COUNT;
-        int gpu_changed = changed;
-
-
-
-        
-        // Calculate nearest cluster for each local observation
-        //kernelMain(observation *observations, cluster *clusters, int *k, int *sizeO, int *changed) 
-        kernelMain(observations, clusters, &gpu_countCL, &gpu_countOB, &gpu_changed);
-        changed = gpu_changed;
-        
-        
-        
-
-
-
-
-
-       // numero de iteracoes da certa
-       if (it == 20)
+         // Calculate nearest cluster for each local observation
+       
+       if (it == 19)
             break;
         it++;
         //printf(" %d\n",it);

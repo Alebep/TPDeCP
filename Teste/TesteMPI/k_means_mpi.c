@@ -6,6 +6,7 @@
 
 #define OBSERVATIONS_COUNT 1000000
 #define CLUSTERS_COUNT 32
+
 typedef struct observation
 {
     float x;   /**< abscissa of 2D data point */
@@ -40,7 +41,7 @@ int calculateNearst(observation *o, cluster clusters[], int k)
 }
 
 int main(int argc, char **argv)
-{
+{   
     MPI_Init(&argc, &argv);
 
     int rank, size;
@@ -60,10 +61,9 @@ int main(int argc, char **argv)
         // Generate random observations
         for (i = 0; i < OBSERVATIONS_COUNT; i++)
         {
-            observations[i].x = rand() / (float)RAND_MAX;
-            observations[i].y = rand() / (float)RAND_MAX;
+            observations[i].x = (float)rand() / RAND_MAX;
+            observations[i].y = (float)rand() / RAND_MAX;
         }
-
         // Initialize clusters
         for (i = 0; i < CLUSTERS_COUNT; i++)
         {
@@ -75,32 +75,40 @@ int main(int argc, char **argv)
         {
             observations[i].group = calculateNearst(observations + i, clusters, CLUSTERS_COUNT);
         }
-         for (i = 0; i < CLUSTERS_COUNT; i++)
+        // Calculate new centroids for each cluster
+        for (i = 0; i < CLUSTERS_COUNT; i++)
         {
-            printf("Cluster %d: (%.3f, %.3f) with %zu observations\n", i, clusters[i].x, clusters[i].y, clusters[i].count);
+            clusters[i].x = 0;
+            clusters[i].y = 0;
+            clusters[i].count = 0;
+        }
+        int l = 0;
+        for (i = 0; i < OBSERVATIONS_COUNT; i++)
+        {
+            l = observations[i].group;
+            clusters[l].x += observations[i].x;
+            clusters[l].y += observations[i].y;
+            clusters[l].count++;
+        }
+        for (i = 0; i < CLUSTERS_COUNT; i++)
+        {
+            clusters[i].x /= clusters[i].count;
+            clusters[i].y /= clusters[i].count;
         }
     }
-
-    // Divide observations among processes
+    
     MPI_Scatter(observations, localObservationsCount, MPI_FLOAT, localObservations, localObservationsCount, MPI_FLOAT, 0, MPI_COMM_WORLD);
 
-    int changed, t; it = 0;
+    int changed, t, it = 0;
     do
     {
         changed = 0;
+
         // Calculate nearest cluster for each local observation
         for (i = 0; i < localObservationsCount; i++)
         {
             t = calculateNearst(localObservations + i, clusters, CLUSTERS_COUNT);
-            if(it > 0)
-            {
-                if (localObservations[i].group != t)
-                {
-                    localObservations[i].group = t;
-                    changed++;
-                }
-            }
-            else
+            if (localObservations[i].group != t)
             {
                 localObservations[i].group = t;
                 changed++;
@@ -109,7 +117,7 @@ int main(int argc, char **argv)
 
         // Gather local clusters back into a single array
         MPI_Allgather(localObservations, localObservationsCount, MPI_FLOAT, observations, localObservationsCount, MPI_FLOAT, MPI_COMM_WORLD);
-
+       
         // Calculate new centroids for each cluster
         for (i = 0; i < CLUSTERS_COUNT; i++)
         {
@@ -131,11 +139,15 @@ int main(int argc, char **argv)
             clusters[i].x /= clusters[i].count;
             clusters[i].y /= clusters[i].count;
         }
-        it++;
-        if(it == 21)
+         // Calculate nearest cluster for each local observation
+       
+       if (it == 19)
             break;
+        it++;
+        printf(" %d\n",it);
     } while (changed > 0);
 
+    
     if (rank == 0)
     {
         printf("Final centroids:\n");
