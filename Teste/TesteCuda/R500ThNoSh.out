@@ -1,0 +1,37 @@
+Final centroids:
+Cluster 0: (0.519, 0.600) with 363497 observations
+Cluster 1: (0.626, 0.106) with 299275 observations
+Cluster 2: (0.714, 0.296) with 363807 observations
+Cluster 3: (0.583, 0.420) with 299041 observations
+Cluster 4: (0.105, 0.421) with 331018 observations
+Cluster 5: (0.068, 0.084) with 236536 observations
+Cluster 6: (0.913, 0.921) with 282822 observations
+Cluster 7: (0.775, 0.099) with 294654 observations
+Cluster 8: (0.344, 0.120) with 284166 observations
+Cluster 9: (0.903, 0.599) with 326821 observations
+Cluster 10: (0.737, 0.907) with 328452 observations
+Cluster 11: (0.926, 0.086) with 262699 observations
+Cluster 12: (0.273, 0.303) with 352888 observations
+Cluster 13: (0.086, 0.757) with 291885 observations
+Cluster 14: (0.292, 0.529) with 350521 observations
+Cluster 15: (0.574, 0.879) with 347951 observations
+Cluster 16: (0.210, 0.095) with 271021 observations
+Cluster 17: (0.085, 0.922) with 274116 observations
+Cluster 18: (0.252, 0.700) with 307089 observations
+Cluster 19: (0.413, 0.420) with 297577 observations
+Cluster 20: (0.901, 0.426) with 330365 observations
+Cluster 21: (0.417, 0.922) with 280570 observations
+Cluster 22: (0.494, 0.253) with 336451 observations
+Cluster 23: (0.092, 0.584) with 310292 observations
+Cluster 24: (0.423, 0.739) with 336081 observations
+Cluster 25: (0.253, 0.896) with 329081 observations
+Cluster 26: (0.905, 0.259) with 317508 observations
+Cluster 27: (0.089, 0.254) with 302068 observations
+Cluster 28: (0.478, 0.073) with 240955 observations
+Cluster 29: (0.895, 0.760) with 326523 observations
+Cluster 30: (0.728, 0.516) with 344507 observations
+Cluster 31: (0.691, 0.708) with 379763 observations
+20
+real	0m4.681s
+user	0m4.366s
+sys	0m0.245s

@@ -3,4 +3,4 @@
 #SBATCH --partition=cpar
 #SBATCH --constraint=k20
 
-time ./k_meansCuda 10000000 4
+time ./cuda_k_means 10000000 32 $THREADS

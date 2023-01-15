@@ -10,7 +10,7 @@
 #define CLUSTERS_COUNT 32
 */
 
-#define NUMThread 1000
+//#define NUMThread 1000
 
 typedef struct observation
 {
@@ -129,6 +129,7 @@ int main(int argc, char *argv[])
 
     int OBSERVATIONS_COUNT = atoi(argv[1]);
     int CLUSTERS_COUNT = atoi(argv[2]);
+    int numThreads = atoi(argv[3]);
 
     int sizeCl = CLUSTERS_COUNT * sizeof(cluster);
     int sizeO = OBSERVATIONS_COUNT * sizeof(observation);
@@ -220,7 +221,7 @@ int main(int argc, char *argv[])
         
         // Calculate nearest cluster for each local observation
         //kernelMain(observation *observations, cluster *clusters, int *k, int *sizeO, int *changed) 
-        kernelMain<<<ceil(OBSERVATIONS_COUNT/NUMThread),NUMThread>>>(gpu_observations, gpu_clusters, gpu_countCL, gpu_countOB, gpu_changed);
+        kernelMain<<<ceil(OBSERVATIONS_COUNT/numThreads/*NUMThread*/),numThreads/*NUMThread*/>>>(gpu_observations, gpu_clusters, gpu_countCL, gpu_countOB, gpu_changed);
         //changed = gpu_changed;
         
         
