@@ -132,8 +132,8 @@ int main(int argc, char **argv)
             localClusters[t].count++;
         }
         // Gather local clusters back into a single array
-        MPI_Reduce(localClusters, clusters, CLUSTERS_COUNT, MPI_INT, MPI_SUM, 0, MPI_COMM_WORLD);
-        //MPI_Allgather(localClusters, CLUSTERS_COUNT, MPI_FLOAT, clusters, CLUSTERS_COUNT, MPI_FLOAT, MPI_COMM_WORLD);
+        //MPI_Reduce(localClusters, clusters, CLUSTERS_COUNT, MPI_INT, MPI_SUM, 0, MPI_COMM_WORLD);
+        MPI_Allgather(localClusters, CLUSTERS_COUNT, MPI_FLOAT, clusters, CLUSTERS_COUNT, MPI_FLOAT, MPI_COMM_WORLD);
         for (i = 0; i < CLUSTERS_COUNT; i++)
         {
             clusters[i].x /= clusters[i].count;
