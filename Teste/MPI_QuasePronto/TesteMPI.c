@@ -99,7 +99,7 @@ int main(int argc, char *argv[])
         clusters[i].y /= clusters[i].count;
     }
 
-    
+    int fchanged = 0;
     MPI_Scatter(observations, localObservationsCount, MPI_FLOAT, localObservations, localObservationsCount, MPI_FLOAT, 0, MPI_COMM_WORLD);
     do
     {
@@ -113,9 +113,11 @@ int main(int argc, char *argv[])
             {
                 localObservations[i].group = t;
                 changed++;
+                //MPI_Barrier(MPI_COMM_WORLD);
             }
         }
-        MPI_Allgather(localObservations, localObservationsCount, MPI_FLOAT, observations, localObservationsCount, MPI_FLOAT, MPI_COMM_WORLD);
+        //MPI_Gather(localObservations, localObservationsCount, MPI_FLOAT, observations, localObservationsCount, MPI_FLOAT, 0, MPI_COMM_WORLD);
+        //MPI_Allgather(localObservations, localObservationsCount, MPI_FLOAT, observations, localObservationsCount, MPI_FLOAT, MPI_COMM_WORLD);
         //if(rank == 0){
             // Calculate new centroids for each cluster
             for (i = 0; i < CLUSTERS_COUNT; i++)
@@ -124,13 +126,14 @@ int main(int argc, char *argv[])
                 clusters[i].y = 0;
                 clusters[i].count = 0;
             }
-            for (i = 0; i < OBSERVATIONS_COUNT; i++)
+            for (i = 0; i < localObservationsCount; i++)
             {
                 t = observations[i].group;
-                clusters[t].x += observations[i].x;
-                clusters[t].y += observations[i].y;
+                clusters[t].x += localObservationsCount[i].x;
+                clusters[t].y += localObservationsCount[i].y;
                 clusters[t].count++;
             }
+            
             for (i = 0; i < CLUSTERS_COUNT; i++)
             {
                 clusters[i].x /= clusters[i].count;
@@ -142,23 +145,28 @@ int main(int argc, char *argv[])
             ;
            // break;
         }*/
-        for (i = 0; i < CLUSTERS_COUNT; i++)
+
+        /*for (i = 0; i < CLUSTERS_COUNT; i++)
         {
-            printf("Cluster %d: (%.2f, %.2f) with %zu observations\n", i, clusters[i].x, clusters[i].y, clusters[i].count);
-        }
+            
+            printf("Cluster %d: (%.3f, %.3f) with %zu observations\n", i, clusters[i].x, clusters[i].y, clusters[i].count);
+        }*/
        if (it == 19)
             break;
         it++;
-        printf(" %d changed: %d\n",it,changed);
-    } while (changed > 0);
+        printf(" %d changed: %d fchanged: %d\n",it,changed,fchanged);
+    } while (changed > -1);
 
     
     if (rank == 0)
     {
+        int x = 0;
         printf("Final centroids:\n");
         for (i = 0; i < CLUSTERS_COUNT; i++)
         {
+            x+=clusters[i].count;
             printf("Cluster %d: (%.3f, %.3f) with %zu observations\n", i, clusters[i].x, clusters[i].y, clusters[i].count);
+            printf("somatorio: %d\n",x);
         }
         printf("%d",it);
     }
