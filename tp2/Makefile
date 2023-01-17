@@ -4,7 +4,8 @@ SRC = src/
 INCLUDES = include/
 EXEC = k_means
 EXECSEQ = k_meansSeq
-THREADS = 8
+#THREADS = 40
+CP_CLUSTERS = 32
 CFLAGS = -O3 -fopenmp
 
 .DEFAULT_GOAL = K_means
@@ -23,6 +24,6 @@ clean:
 #	rm -r bin/k_means
 #	rm -r bin/utils.o
 runseq:
-	./$(BIN)$(EXECSEQ) 10000000 $(CP_CLUSTERS)
+	./$(BIN)$(EXECSEQ) 2120490 $(CP_CLUSTERS)
 runpar:
-	./$(BIN)$(EXEC) 10000000 $(CP_CLUSTERS) $(THREADS)
+	./$(BIN)$(EXEC) 2120490 $(CP_CLUSTERS) $(THREADS)
