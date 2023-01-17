@@ -68,7 +68,6 @@ cluster *kMeans(observation observations[], size_t size, int k)
         size_t changed = 0;
         int t = 0;
         int i = 0;
-#pragma omp parallel for num_threads(threads)
         for (i = 0; i < k; i++)
         {
             clusters[i].x = observations[i].x;
@@ -104,7 +103,7 @@ cluster *kMeans(observation observations[], size_t size, int k)
             }
             /* STEP 3 and 4 */
             changed = 0; // this variable stores change in clustering
-#pragma omp parallel default(shared) firstprivate(size, k) num_threads(threads)
+#pragma omp parallel default(shared) firstprivate(size, k, t) reduction(+:changed) num_threads(threads)
             {
 #pragma omp for schedule(static)
                 for (j = 0; j < size; j++)
